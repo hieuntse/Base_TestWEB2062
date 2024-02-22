@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "id": 0,
+            "mssv": "hieunt249",
+            "studentName": "Nguyen Trung Hieu"
+        },
+        {
+            "id": 1,
+            "mssv": "pk02914",
+            "studentName": "Nguyen Van Vinh"
+        },
+        {
+            "id": 2,
+            "mssv": "pk03092",
+            "studentName": "Nguyen Van Tin"
+        }
+
+    ]
+}
